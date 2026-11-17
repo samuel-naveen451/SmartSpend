@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend – AI-Powered Expense Tracker",
+  "description": "Monochrome personal finance dashboard for CSV bank statement extraction, automated expense categorization, budgeting, and spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
